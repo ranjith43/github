@@ -1,3 +1,12 @@
 #! /bin/sh
 
 echo " **************** Project ********************\n"
+cd src
+gcc -o sample sample.c
+./sample >> ../output/test.txt
+
+
+echo "**************"
+echo " *** Done ****"
+echo "***************"
+
