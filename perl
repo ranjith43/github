@@ -1,4 +1,4 @@
-#! /bin/usr/perl
+#! /usr/bin/perl
 
 print " ********* Github Project started ****** ";
 
